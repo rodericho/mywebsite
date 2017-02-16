@@ -1,0 +1,39 @@
+p {color: blue;}
+
+header {
+  color: blue;
+}
+
+.redtext {color: red;}
+
+.bluetext {color: blue;}
+
+.shout {text-transform: uppercase;}
+
+a:hover{
+  font-size: 20px;
+}
+
+.block ul li{
+  padding: 5px;
+}
+
+.circle li{
+  list-style-type: circle;
+}
+
+.square li{
+  list-style-type: square;
+}
+
+.inline li{
+  display: inline;
+  padding: 10px;
+}
+
+.links {
+  border: solid red;
+  max-width: 70ex;
+  float: left;
+  margin: 0;
+}
